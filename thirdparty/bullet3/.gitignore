@@ -1,0 +1,48 @@
+# Pip
+pip-selfcheck.json
+*.whl
+*.egg
+*.egg-info
+
+# Setuptools
+/build
+/dist
+*.eggs
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestFile.cmake
+ Ignore List
+Showing the top match
+Last indexed 9 minutes ago
+@tyabus
+tyabus/Kisak-Strike
+public/tier1/keyvaluesjson.h
+// Read JSON-formatted data into KeyValues
+#endif
+
+#include "keyvalues.h"
+
+class CUtlBuffer;
+
+/// JSON parser.  Use this class when you need to customize the parsing.
+ C++
+Showing the top two matches
+Last indexed 9 minutes ago
+@tyabus
+tyabus/Kisak-Strike
+thirdparty/JSON_parser/JSON_parser.h
+/* See JSON_parser.c for copyright information and licensing. */
+
+#ifndef JSON_PARSER_H
+#define JSON_PARSER_H
+
+/* JSON_parser.h */
+
+
+#include <stddef.h>
+
+/* Windows DLL stuff */
+#ifdef JSON_PARSER_DLL
