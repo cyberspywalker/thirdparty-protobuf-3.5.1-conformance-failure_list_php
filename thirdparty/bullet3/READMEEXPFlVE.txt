@@ -4312,7 +4312,7 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_prim
 
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport HD" group-title="⚽ SPORTS" tvg-logo="https://i.ibb.co/FKbFB4W/Desain-tanpa-judul-4-modified.png",Astro SuperSport 1 ⁽ˢᵉʳᵛᵉʳ ²⁾
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://webdi.openhd.lol/ddyx2/premium123/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/lb/premium123/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport HD" group-title="⚽ SPORTS" tvg-logo="https://i.ibb.co/FKbFB4W/Desain-tanpa-judul-4-modified.png",Astro SuperSport 1 ⁽ˢᵉʳᵛᵉʳ ³⁾
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115615&extension=ts
@@ -4325,7 +4325,7 @@ https://aqfadtv.xyz/live/supersport2/index.mpd
 
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2 HD" group-title="⚽ SPORTS" tvg-logo="https://i.ibb.co/RCTSn6n/Desain-tanpa-judul-5-modified.png",Astro SuperSport 2 ⁽ˢᵉʳᵛᵉʳ ²⁾
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://webdi.openhd.lol/ddyx2/premium124/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/lb/premium124/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2 HD" group-title="⚽ SPORTS" tvg-logo="https://i.ibb.co/RCTSn6n/Desain-tanpa-judul-5-modified.png",Astro SuperSport 2 ⁽ˢᵉʳᵛᵉʳ ³⁾
 http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/52860
@@ -4338,7 +4338,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="Astro SuperSport 3 HD" group-title="⚽ SPORTS" tvg-logo="https://i.ibb.co/N9BVfKB/Desain-tanpa-judul-6-modified.png",Astro SuperSport 3 ⁽ˢᵉʳᵛᵉʳ ²⁾
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://webdi.openhd.lol/ddyx2/premium125/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/lb/premium125/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="Astro SuperSport 3 HD" group-title="⚽ SPORTS" tvg-logo="https://i.ibb.co/N9BVfKB/Desain-tanpa-judul-6-modified.png",Astro SuperSport 3 ⁽ˢᵉʳᵛᵉʳ ³⁾
 http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/52861
@@ -4351,7 +4351,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4 HD" group-title="⚽ SPORTS" tvg-logo="https://i.ibb.co/tKj8ZG9/Desain-tanpa-judul-7-modified.png",Astro SuperSport 4 ⁽ˢᵉʳᵛᵉʳ ²⁾
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://webdi.openhd.lol/ddyx2/premium126/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/lb/premium126/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4 HD" group-title="⚽ SPORTS" tvg-logo="https://i.ibb.co/tKj8ZG9/Desain-tanpa-judul-7-modified.png",Astro SuperSport 4 ⁽ˢᵉʳᵛᵉʳ ³⁾
 http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/52862
@@ -4363,7 +4363,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-name="Astro SuperSport 5 HD" tvg-logo="https://i.ibb.co/dGvfNvs/Desain-tanpa-judul-8-modified.png" group-title="⚽ SPORTS",Astro Supersport 5 ⁽ˢᵉʳᵛᵉʳ ²⁾ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://webdi.openhd.lol/ddyx2/premium43/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/lb/premium43/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5085
