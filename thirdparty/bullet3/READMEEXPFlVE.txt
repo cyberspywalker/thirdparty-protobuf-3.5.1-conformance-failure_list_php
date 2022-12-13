@@ -21317,17 +21317,6 @@ http://23.226.71.76/GnA682vWMBJdOjIjcAI1whyUc5ol-kp8bEvB6d2SUk4jEJG6fGGFLz079jnB
 </body><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br>
 
-#EXTINF:-1 tvg-id="AstroArena2" group-title="Sports" ch-number="802" tvg-logo="https://aqfadtv.xyz/logos/AstroArena2.png",802 Astro Arena 2 (Backup) 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/sooka/arena2
-https://d2ekjg3g3mxanc.cloudfront.net/CH1/masterCH1.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5XTm1NbVUxT1RBdE9EUmhNQzAwTm1VekxUaGpZMkV0WlRWaVl6YzFObVl6TURCaiIsIndtb3BpZCI6MzIsImV4cCI6MTY3MTM2NzA1OCwiaWF0IjoxNjcwNzYyMjU4fQ.9wQHCGcvS4FlK_lnnMQ7iwQmzWueUe3PQfr5Ou4KzIg
 
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5XTm1NbVUxT1RBdE9EUmhNQzAwTm1VekxUaGpZMkV0WlRWaVl6YzFObVl6TURCaiIsIndtb3BpZCI6MzIsImV4cCI6MTY3MTM2NzA1OCwiaWF0IjoxNjcwNzYyMjU4fQ.9wQHCGcvS4FlK_lnnMQ7iwQmzWueUe3PQfr5Ou4KzIg"} 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"F/ut5qlPUnGmp8VjdL9t
 
 
