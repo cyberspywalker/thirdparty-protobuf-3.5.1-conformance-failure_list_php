@@ -1550,7 +1550,7 @@ https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
 https://aqfadtv.xyz/live/unifitv/degup/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NTRkNjZkMjgtOTY5Mi0zY2JiLTkxOTktNDkzMmE3MjAxYjQy
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/siar/
 #EXTINF:-1 tvg-id="SIAR" tvg-name="SIAR" group-title="🇲🇾 MALAYSIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/SIAR_%28TV_logo%29.png/revision/latest?cb=20220902115129",Unifi Siar
 https://aqfadtv.xyz/live/unifitv/siar/index.mpd
 
@@ -4557,7 +4557,7 @@ https://webudi.openhd.lol/lb/premium554/index.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2504
 #EXTINF:-1 tvg-id="AstroCricket.my" tvg-name="Astro Cricket HD" group-title="⚽ SPORTS" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1Nz0AP.png",Astro Cricket 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd
 
@@ -5175,16 +5175,16 @@ http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/1052373
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5XTm1NbVUxT1RBdE9EUmhNQzAwTm1VekxUaGpZMkV0WlRWaVl6YzFObVl6TURCaiIsIndtb3BpZCI6MzIsImV4cCI6MTY3MTM2NzA1OCwiaWF0IjoxNjcwNzYyMjU4fQ.9wQHCGcvS4FlK_lnnMQ7iwQmzWueUe3PQfr5Ou4KzIg"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6GP3FJ5S91Jr90QDTifOjQ", "kid":"977qwgCvQNWIbf6Y1y/PyA" } ], "type":"temporary" }
-#EXTINF:-1 group-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" tvg-id="WC2022-1" group-title="⚽ FIFA WORLD CUP 2022 QATAR™" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/279_144.png",Astro World Cup Qatar 1
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/sooka/fwc2022-1
+#EXTINF:-1 group-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" tvg-id="AstroSupersportUHD" group-title="⚽ FIFA WORLD CUP 2022 QATAR™" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/279_144.png",Astro World Cup Qatar 1
 https://dq4ixj4w2vjju.cloudfront.net/CH1/masterCH1.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5XTm1NbVUxT1RBdE9EUmhNQzAwTm1VekxUaGpZMkV0WlRWaVl6YzFObVl6TURCaiIsIndtb3BpZCI6MzIsImV4cCI6MTY3MTM2NzA1OCwiaWF0IjoxNjcwNzYyMjU4fQ.9wQHCGcvS4FlK_lnnMQ7iwQmzWueUe3PQfr5Ou4KzIg"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d/ZWTWoqiWiVgbvEaF2fug", "kid":"ngdsLhf9SLS+J83Aj+IYfw" } ], "type":"temporary" }
-#EXTINF:-1 group-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" tvg-id="WC2022-2" group-title="⚽ FIFA WORLD CUP 2022 QATAR™" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/279_144.png",Astro World Cup Qatar 2
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/sooka/fwc2022-2
+#EXTINF:-1 group-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" tvg-id="AstroSupersportUHD" group-title="⚽ FIFA WORLD CUP 2022 QATAR™" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/279_144.png",Astro World Cup Qatar 2
 https://d2o8qbnewx81s3.cloudfront.net/CH1/masterCH1.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-name="wc2022 1" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="⚽ FIFA WORLD CUP 2022 QATAR™", Astro World Cup Qatar 1 ⁽ᵇᵃᶜᵏᵘᵖ⁾
@@ -5209,6 +5209,10 @@ https://webdi.openhd.lol/ddyx2/premium295/index.m3u8?|referer=https://widevine.l
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1601
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HzT1Vg6/Picsart-22-11-18-19-18-19-950.png" group-title="⚽ FIFA WORLD CUP 2022 QATAR™",Itv 1
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webudi.openhd.lol/ddy1/premium350/tracks-v1a1/mono.m3u8
 
 #EXTINF:1 tvg-id="TrueSports2.th" tvg-logo="https://i.ibb.co/HzT1Vg6/Picsart-22-11-18-19-18-19-950.png" group-title="⚽ FIFA WORLD CUP 2022 QATAR™", True Sport 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
