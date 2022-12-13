@@ -1595,28 +1595,26 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna HD" group-title="🇲🇾 MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna ⁽ˢᵉʳᵛᵉʳ ¹⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2402
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-http://iptv12k.com:35461/80203091402/213445/13629
-https://aqfadtv.xyz/live/warna/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5086
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5086/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna HD" group-title="🇲🇾 MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna ⁽ˢᵉʳᵛᵉʳ ²⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-http://iptv12k.com:35461/80203091402/213445/13628 
+http://iptv12k.com:35461/80203091402/213445/13629 
 http://51.79.82.208:16010
 
 #EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna HD" group-title="🇲🇾 MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna ⁽ˢᵉʳᵛᵉʳ ³⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
-https://stream.zeehanzgadget.com/warna
+#https://stream.zeehanzgadget.com/warna
+#http://iptv12k.com:35461/80203091402/213445/13629
 
 #EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra HD" group-title="🇲🇾 MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra ⁽ˢᵉʳᵛᵉʳ ¹⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2700
-http://139.99.96.163:2095/live/User48278/tBw10zkne9/14.ts
-https://aqfadtv.xyz/live/citra/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5085
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5085/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra HD" group-title="🇲🇾 MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra ⁽ˢᵉʳᵛᵉʳ ²⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1626,7 +1624,8 @@ https://stream.zeehanzgadget.com/citra
 # https://movierakyat.link/ePggbR.mpd
 
 #EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra HD" group-title="🇲🇾 MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra ⁽ˢᵉʳᵛᵉʳ ³⁾
-http://iptv12k.com:35461/80203091402/213445/6608
+#http://139.99.96.163:2095/live/User48278/tBw10zkne9/14.ts
+#http://iptv12k.com:35461/80203091402/213445/6608
 
 #EXTINF:-1 tvg-id="RTMK08" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/PDN_bckg.png" group-title="🇲🇾 MALAYSIA",Parlimen Dewan Negara
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b4596000_slENG.m3u8
@@ -1676,11 +1675,13 @@ https://tinyurl.com/visit-kedai-saya
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/609/
 #EXTINF:-1 tvg-id="AstroAura.my" ch-number="AstroAura" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="🇮🇩 INDONESIA",Astro Aura  
+https://malayandi.herokuapp.com/dash-wv/linear/609/default_ott.mpd
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/608/
 #EXTINF:-1 tvg-id="AstroRania.my" tvg-name="ASTRO RANIA HD" group-title="🇮🇩 INDONESIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",Astro Rania 
+https://malayandi.herokuapp.com/dash-wv/linear/608/default_ott.mpd
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 
 #EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-logo="https://i.ibb.co/gTN6Xc2/bioskopindonesia-modified.png" group-title="🇮🇩 INDONESIA", Bioskop Indonesia
@@ -1906,13 +1907,15 @@ https://stream.zeehanzgadget.com/vinmeen
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2109
 #EXTINF:-1 tvg-id="AstroBoxOfficeThangathirai.my" ch-number="BoxOfficeThangathirai" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Astro_Box_Office_Movies.png" group-title="🎭 MIX INDIAN",Box Office Thangathirai
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
+https://malayandi.herokuapp.com/dash-wv/linear/2109/default_ott.mpd
+#http://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
 # https://aqfadtv.xyz/live/thangathirai/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1007
 #EXTINF:-1 tvg-id="AstroBollyOneHD.my" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Bollyone_HD_v1.png" group-title="🎭 MIX INDIAN",Box Office Bollyone
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_primary.mpd
+https://malayandi.herokuapp.com/dash-wv/linear/1007/default_ott.mpd
+#http://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_primary.mpd
 # https://aqfadtv.xyz/live/bollyone/index.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2269,28 +2272,28 @@ https://aqfadtv.xyz/live/aec/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2706
-#EXTINF:-1 tvg-id="AstroAOD352.my" ch-number="352" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png" group-title="🌀 MIX CHINESE",Astro AOD 352
+#EXTINF:-1 tvg-id="AstroAOD352.my" ch-number="352" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png" group-title="🌀 MIX CHINESE",Astro AOD 351
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_primary.mpd
 
-#EXTINF:-1 tvg-id="352" ch-number="352" group-title="🌀 MIX CHINESE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109",Astro AOD  
+#EXTINF:-1 tvg-id="352" ch-number="352" group-title="🌀 MIX CHINESE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109",Astro AOD 352 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=keyid=https://ck-dash-mpd.astradamy.com/dash-ck/linear/700
-# http://linearjitp-playback.astro.com.my/dash-wv/linear/700/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/700/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroAOD353" ch-number="353" group-title="🌀 MIX CHINESE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109",Astro AOD  
+#EXTINF:-1 tvg-id="AstroAOD353" ch-number="353" group-title="🌀 MIX CHINESE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109",Astro AOD 353 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/905
-# http://linearjitp-playback.astro.com.my/dash-wv/linear/905/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/905/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroAOD354.my" ch-number="354" group-title="🌀 MIX CHINESE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109",Astro AOD 354 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/212
 http://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroAOD355" ch-number="355" group-title="🌀 MIX CHINESE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109",Astro AOD 
+#EXTINF:-1 tvg-id="AstroAOD355" ch-number="355" group-title="🌀 MIX CHINESE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109",Astro AOD 355 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/307
-# http://linearjitp-playback.astro.com.my/dash-wv/linear/307/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/307/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2711
@@ -2300,8 +2303,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2711/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2403
 #EXTINF:-1 tvg-id="AstroShuangXing.my" ch-number="AstroShuangXing" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/183_144.png" group-title="🌀 MIX CHINESE",Astro Shuang Xing 
-https://stream.zeehanzgadget.com/shuangxing
-# https://linearjitp-playback.astro.com.my/dash-wv/linear/2403/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2403/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2507
@@ -3342,7 +3344,7 @@ http://210.210.155.35:80/uq2663/h/h18/01.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="Galaxy.id" tvg-logo="https://i.ibb.co/WxDMnJt/channel-13-modified.png" group-title="🎥 MOVIES",Galaxy
-https://live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+https://av-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -4294,7 +4296,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?i
 #EXTINF:-1 tvg-id="AstroArena.my" tvg-name="Astro Arena HD" group-title="⚽ SPORTS" ch-number="801" tvg-logo="https://i.ibb.co/H79rWh4/arena-Telecast4-Web-modified.png",Astro Arena 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2604
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 # http://51.79.82.208:16058 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4550,9 +4552,9 @@ https://webudi.openhd.lol/lb/premium554/index.m3u8
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5059
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5079
 #EXTINF:-1 tvg-id="SPOTV2.kr" tvg-name="SPOTV2" group-title="⚽ SPORTS" tvg-logo="https://i.ibb.co/N7LpgDN/channel-428-modified.png",Spotv 2 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-id="SPOTV.kr" group-title="⚽ SPORTS" tvg-logo="https://i.ibb.co/C5gD7th/file-7408e006-5492-4b54-aa54-581581b2d87b-modified.png", Spotv 1 Asia
@@ -5154,9 +5156,6 @@ http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/1052374
 #EXTINF:-1 tvg-id="pialadunia.id" tvg-name="◈ WorldCup Pool/Groups  ᴴᴰ" tvg-logo="https://iili.io/yBb1sf.md.pnghttps://iili.io/yBb1sf.md.png" group-title="⚽ FIFA WORLD CUP 2022 QATAR™",◈ WorldCup Pool/Groups  ᴴᴰ
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/1052373
 
-#EXTINF:-1 tvg-id="pialadunia.id" tvg-logo="https://iili.io/yBb1sf.md.pnghttps://iili.io/yBb1sf.md.png" group-title="⚽ FIFA WORLD CUP 2022 QATAR™", Qatar TV
-https://cnda11.ahdafsoccer.com:443/UpFiles/2022/11/20/152/240653/720p.m3u8
-
 #EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-name="wc2022 1" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="⚽ FIFA WORLD CUP 2022 QATAR™", Astro World Cup Qatar 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://webdi.openhd.lol/ddyx2/premium294/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
@@ -5181,8 +5180,8 @@ https://webdi.openhd.lol/ddyx2/premium295/index.m3u8?|referer=https://widevine.l
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd
 
 #EXTINF:1 tvg-id="TrueSports2.th" tvg-logo="https://i.ibb.co/HzT1Vg6/Picsart-22-11-18-19-18-19-950.png" group-title="⚽ FIFA WORLD CUP 2022 QATAR™", True Sport 2 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-https://sport.livedoomovies.com:4431/02_2sporthd1_720p/chunklist.m3u8?|Referer=https://www.youdooball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+https://smart-tv.livedoomovies.com:4431/02_2sporthd2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 
 #EXTINF:-1 tvg-id="pialadunia.id" group-title="⚽ FIFA WORLD CUP 2022 QATAR™" ch-number="" tvg-logo="https://i.ibb.co/HzT1Vg6/Picsart-22-11-18-19-18-19-950.png", Gtv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
@@ -5235,12 +5234,15 @@ https://webudi.openhd.lol/ddy1/premium39/tracks-v1a1/mono.m3u8
 # http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/1529
 
 #EXTINF:1 tvg-id="Match.ru" tvg-logo="https://i.ibb.co/HzT1Vg6/Picsart-22-11-18-19-18-19-950.png" group-title="⚽ FIFA WORLD CUP 2022 QATAR™", Матч! FHD ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 
 #EXTINF:1 tvg-id="Match.ru" tvg-logo="https://i.ibb.co/HzT1Vg6/Picsart-22-11-18-19-18-19-950.png" group-title="⚽ FIFA WORLD CUP 2022 QATAR™", Матч! FHD ⁽ˢᵉʳᵛᵉʳ ²⁾
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8 
 
 #EXTINF:1 tvg-id="Match.ru" tvg-logo="https://i.ibb.co/HzT1Vg6/Picsart-22-11-18-19-18-19-950.png" group-title="⚽ FIFA WORLD CUP 2022 QATAR™", Матч! FHD ⁽ˢᵉʳᵛᵉʳ ³⁾
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 https://bl.uma.media/live/394904/HLS/1_5/1/1/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="beINSportsMax1.qa" tvg-name="BEIN SPORTS MAX 1 FHD" tvg-logo="https://i.ibb.co/HzT1Vg6/Picsart-22-11-18-19-18-19-950.png" group-title="⚽ FIFA WORLD CUP 2022 QATAR™",Bein Sports Max 1
