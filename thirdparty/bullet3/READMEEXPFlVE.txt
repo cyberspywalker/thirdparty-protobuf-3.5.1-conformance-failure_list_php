@@ -2661,7 +2661,7 @@ https://tinyurl.com/visit-kedai-saya
 #EXTINF:-1 tvg-id="CHN" tvg-name="" tvg-logo="https://i.ibb.co/NL5t4PZ/photo1662042694.jpg" group-title="🔴 INFORMASI",TERMA & SYARAT
 https://tinyurl.com/Term-and-Cond
 
-#EXTINF:-1 tvg-id="CHN" tvg-name="" tvg-logo="https://i.ibb.co/NL5t4PZ/photo1662042694.jpg" group-title="🇲🇾 MALAYSIA",SILA KLIK DAN BACA!!
+#EXTINF:-1 tvg-id="CHN" tvg-name="" group-logo="https://i.ibb.co/NL5t4PZ/photo1662042694.jpg" tvg-logo="https://i.ibb.co/NL5t4PZ/photo1662042694.jpg" group-title="🇲🇾 MALAYSIA",SILA KLIK DAN BACA!!
 https://tinyurl.com/sila-baca-la-oii
 
 #EXTINF:-1 tvg-id="CHN" tvg-name="" tvg-logo="https://i.ibb.co/NL5t4PZ/photo1662042694.jpg" group-title="🇲🇾 MALAYSIA",VISIT MY SHOP 
@@ -2920,10 +2920,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/507/default_ott.mpd
 
 
 
-#EXTINF:-1 tvg-id="CHN" tvg-name="" tvg-logo="https://i.ibb.co/NL5t4PZ/photo1662042694.jpg" group-title="🇮🇩 INDONESIA",SILA KLIK DAN BACA!!
+#EXTINF:-1 tvg-id="CHN" tvg-name="" group-logo="https://i.ibb.co/NL5t4PZ/photo1662042694.jpg" tvg-logo="https://i.ibb.co/NL5t4PZ/photo1662042694.jpg" group-title="🇮🇩 INDONESIA",SILA KLIK DAN BACA!!
 https://tinyurl.com/sila-baca-la-oii
 
-#EXTINF:-1 tvg-id="CHN" tvg-name="" tvg-logo="https://i.ibb.co/NL5t4PZ/photo1662042694.jpg" group-logo="https://i.ibb.co/NL5t4PZ/photo1662042694.jpg" group-title="🇮🇩 INDONESIA",VISIT MY SHOP 
+#EXTINF:-1 tvg-id="CHN" tvg-name="" tvg-logo="https://i.ibb.co/NL5t4PZ/photo1662042694.jpg" group-title="🇮🇩 INDONESIA",VISIT MY SHOP 
 https://tinyurl.com/visit-kedai-saya
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3125,8 +3125,6 @@ https://av-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 
 
-#EXTINF:-1 tvg-id="CHN" tvg-name="" tvg-logo="https://i.ibb.co/NL5t4PZ/photo1662042694.jpg" group-title="🎭 MIX INDIAN",INFO PENGGUNAAN DNS CHANGER
-#https://tinyurl.com/Guna-DNS-Changer
 
 #EXTINF:-1 tvg-id="CHN" tvg-name="" group-logo="https://i.ibb.co/NL5t4PZ/photo1662042694.jpg" tvg-logo="https://i.ibb.co/NL5t4PZ/photo1662042694.jpg" group-title="🎭 MIX INDIAN",SILA KLIK DAN BACA!!
 https://tinyurl.com/sila-baca-la-oii
@@ -3476,7 +3474,7 @@ http://208.115.215.42:80/Utsav_Plus_HD/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-id="CHN" tvg-name="" tvg-logo="https://i.ibb.co/NL5t4PZ/photo1662042694.jpg" group-title="🌀 MIX CHINESE",INFO PENGGUNAAN DNS CHANGER
+#EXTINF:-1 tvg-id="CHN" tvg-name="" group-logo="https://i.ibb.co/NL5t4PZ/photo1662042694.jpg" tvg-logo="https://i.ibb.co/NL5t4PZ/photo1662042694.jpg" group-title="🌀 MIX CHINESE",INFO PENGGUNAAN DNS CHANGER
 #https://tinyurl.com/Guna-DNS-Changer
 
 #EXTINF:-1 tvg-id="CHN" tvg-name="" tvg-logo="https://i.ibb.co/NL5t4PZ/photo1662042694.jpg" group-title="🌀 MIX CHINESE",SILA KLIK DAN BACA!!
@@ -3805,10 +3803,10 @@ http://222.175.159.226:808/hls/18/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="CHN" tvg-name="" tvg-logo="https://i.ibb.co/NL5t4PZ/photo1662042694.jpg" group-title="🇸🇬 SINGAPORE",SILA KLIK DAN BACA!!
+#EXTINF:-1 tvg-id="CHN" tvg-name="" group-logo="https://i.ibb.co/NL5t4PZ/photo1662042694.jpg" tvg-logo="https://i.ibb.co/NL5t4PZ/photo1662042694.jpg" group-title="🇸🇬 SINGAPORE",SILA KLIK DAN BACA!!
 https://tinyurl.com/sila-baca-la-oii
 
-#EXTINF:-1 tvg-id="CHN" tvg-name="" group-logo="https://i.ibb.co/NL5t4PZ/photo1662042694.jpg" tvg-logo="https://i.ibb.co/NL5t4PZ/photo1662042694.jpg" group-title="🇸🇬 SINGAPORE",VISIT MY SHOP 
+#EXTINF:-1 tvg-id="CHN" tvg-name="" tvg-logo="https://i.ibb.co/NL5t4PZ/photo1662042694.jpg" group-title="🇸🇬 SINGAPORE",VISIT MY SHOP 
 https://tinyurl.com/visit-kedai-saya
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3869,10 +3867,10 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 
 
 
-#EXTINF:-1 tvg-id="CHN" tvg-name="" tvg-logo="https://i.ibb.co/NL5t4PZ/photo1662042694.jpg" group-title="🇰🇷 KOREA",SILA KLIK DAN BACA!!
+#EXTINF:-1 tvg-id="CHN" tvg-name="" group-logo="https://i.ibb.co/NL5t4PZ/photo1662042694.jpg" tvg-logo="https://i.ibb.co/NL5t4PZ/photo1662042694.jpg" group-title="🇰🇷 KOREA",SILA KLIK DAN BACA!!
 https://tinyurl.com/sila-baca-la-oii
 
-#EXTINF:-1 tvg-id="CHN" tvg-name="" group-logo="https://i.ibb.co/NL5t4PZ/photo1662042694.jpg" tvg-logo="https://i.ibb.co/NL5t4PZ/photo1662042694.jpg" group-title="🇰🇷 KOREA",VISIT MY SHOP 
+#EXTINF:-1 tvg-id="CHN" tvg-name="" tvg-logo="https://i.ibb.co/NL5t4PZ/photo1662042694.jpg" group-title="🇰🇷 KOREA",VISIT MY SHOP 
 https://tinyurl.com/visit-kedai-saya
 
 #EXTINF:-1 tvg-id="tvNMoviesAsia.hk" ch-number="416" group-title="🇰🇷 KOREA" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190723/20190723084311221wnu.png",tvN Movies (MY)   
