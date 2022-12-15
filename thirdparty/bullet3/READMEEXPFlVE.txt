@@ -2813,8 +2813,10 @@ https://aqfadtv.xyz/live/unifitv/siar/index.mpd
 #EXTINF:-1 tvg-id="Dunia Sinema" tvg-name="Dunia Sinema" group-title="🇲🇾 MALAYSIA" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Unifi Dunia Sinema
 https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 
-#EXTINF:-1 group-title="🇲🇾 MALAYSIA" tvg-id="123" tvg-logo="https://tinyurl.com/mrkr9fde",Astro Sensasi
-#https://4fl0.short.gy/FzTv/sensasi.ts
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5085
+#EXTINF:-1 group-title="🇲🇾 MALAYSIA" tvg-id="AstroSensasi.my" tvg-name="Astro Sensasi HD" tvg-logo="https://tinyurl.com/mrkr9fde",Astro Sensasi
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5085/default_primary.mpd
 
 #EXTINF:-1 group-title="🇲🇾 MALAYSIA" tvg-id="AstroRia.my" tvg-name="Astro Ria HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",Astro Ria 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2865,10 +2867,12 @@ http://51.79.82.208:16010
 #https://stream.zeehanzgadget.com/warna
 #http://iptv12k.com:35461/80203091402/213445/13629
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"W64AF3MLZiu7aPemKeCyqg", "kid":"N+D6QCNB63FT/xB4kx/IEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra HD" group-title="🇲🇾 MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra ⁽ˢᵉʳᵛᵉʳ ¹⁾
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5085
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5085/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5092/default.mpd
 
 #EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra HD" group-title="🇲🇾 MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra ⁽ˢᵉʳᵛᵉʳ ²⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -7056,14 +7060,9 @@ https://onedrive.astradamy.com/api/raw/?path=/Movies/Olympic.Dream.2021.1080p.WE
 
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"W64AF3MLZiu7aPemKeCyqg", "kid":"N+D6QCNB63FT/xB4kx/IEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="OneCentThief" tvg-name="One Cent Thief" group-title="VOD Barat" group-logo="https://i.ibb.co/NL5t4PZ/photo1662042694.jpg" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OCT_HD.png",One Cent Thief CH100
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5092/default.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/d0Lsdjzq/20221202-001503.png" group-title="VOD Barat",My Name is Vendetta (2022)
+
+#EXTINF:-1 tvg-id="" group-logo="https://i.ibb.co/NL5t4PZ/photo1662042694.jpg" tvg-logo="https://i.postimg.cc/d0Lsdjzq/20221202-001503.png" group-title="VOD Barat",My Name is Vendetta (2022)
 #EXTVLCOPT:http-referrer=https://stream.xpeer.xyz/new1.php?id=2fe27ef5e1c61a88793d5529877c25ec52555360
 https://stream.xpeer.xyz/xxx/my-name-is-vendetta-2022/17/480.m3u8
   
