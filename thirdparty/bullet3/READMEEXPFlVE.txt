@@ -2641,7 +2641,7 @@ html[subframe] body {
 
 
 #EXTM3U
-#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml,https://weareblahs.github.io/epg/unifitv.xml,https://raw.githubusercontent.com/iptv-org/epg/master/sites/bein.com/bein.com_qa.channels.xml,https://iptv-org.github.io/epg/guides/ng/dstv.com.epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://weareblahs.github.io/epg/rtmklik.xml,https://macan.tv/xmltv.php?username=epg&password=epg,https://dukun.masuk.id/epg/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,http://iptvthai.my.to/guide.xml,http://epg.streamstv.me/epg/guide-india.xml.gz,https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://dukun.masuk.id/epg/dukun.xml,https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml,http://gg.gg/epgvn03,https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml,https://iptv-org.github.io/epg/guides/qa-ar/beinsports.com.epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml,https://iptv-org.github.io/epg/guides/uk/virginmedia.com.epg.xml,https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://iptv-org.github.io/epg/guides/qa/bein.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/mk/maxtvgo.mk.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml,https://iptv-org.github.io/epg/guides/hu/musor.tv.epg.xml,https://iptv-org.github.io/epg/guides/il/mako.co.il.epg.xml.gz,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml,https://iptv-org.github.io/epg/guides/za/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml,https://antifriztv.com/xmltv.xml.gz,https://iptv-org.github.io/epg/guides/ro.xml,http://epg.fox-tv.fun/1.xmltv,https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml,https://dukun.masuk.id/epg/magticom.ge.epg.xml,https://dukun.masuk.id/epg/ziggogo.tv.epg.xml,https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml,https://iptv-org.github.io/epg/guides/th.xml.gz,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml.gz,https://dukun.masuk.id/epg/guidatv.sky.it.epg.xml,https://dukun.masuk.id/epg/ziggogo.tv.epg.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml,https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml,https://aqfadtv.xyz/epg,https://iptv-org.github.io/epg/guides/ca/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/ru.xml,https://iptv-org.github.io/epg/guides/ca.xml,https://iptv-org.github.io/epg/guides/de.xml,http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,https://mammothtv.wapka.co/epg3,http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58" refresh="1440"
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml,https://weareblahs.github.io/epg/unifitv.xml,https://raw.githubusercontent.com/iptv-org/epg/master/sites/bein.com/bein.com_qa.channels.xml,https://iptv-org.github.io/epg/guides/ng/dstv.com.epg.xml,https://github.com/AqFad2811/epg/raw/main/astro.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://weareblahs.github.io/epg/rtmklik.xml,https://macan.tv/xmltv.php?username=epg&password=epg,https://dukun.masuk.id/epg/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,http://iptvthai.my.to/guide.xml,http://epg.streamstv.me/epg/guide-india.xml.gz,https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://dukun.masuk.id/epg/dukun.xml,https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml,http://gg.gg/epgvn03,https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml,https://iptv-org.github.io/epg/guides/qa-ar/beinsports.com.epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml,https://iptv-org.github.io/epg/guides/uk/virginmedia.com.epg.xml,https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://iptv-org.github.io/epg/guides/qa/bein.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/mk/maxtvgo.mk.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml,https://iptv-org.github.io/epg/guides/hu/musor.tv.epg.xml,https://iptv-org.github.io/epg/guides/il/mako.co.il.epg.xml.gz,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml,https://iptv-org.github.io/epg/guides/za/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml,https://antifriztv.com/xmltv.xml.gz,https://iptv-org.github.io/epg/guides/ro.xml,http://epg.fox-tv.fun/1.xmltv,https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml,https://dukun.masuk.id/epg/magticom.ge.epg.xml,https://dukun.masuk.id/epg/ziggogo.tv.epg.xml,https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml,https://iptv-org.github.io/epg/guides/th.xml.gz,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml.gz,https://dukun.masuk.id/epg/guidatv.sky.it.epg.xml,https://dukun.masuk.id/epg/ziggogo.tv.epg.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml,https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/ca/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/ru.xml,https://iptv-org.github.io/epg/guides/ca.xml,https://iptv-org.github.io/epg/guides/de.xml,http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,https://mammothtv.wapka.co/epg3,http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58" refresh="1440"
 
 #EXTINF:-1 tvg-id="CHN" tvg-name="" group-logo="https://i.ibb.co/NL5t4PZ/photo1662042694.jpg" tvg-logo="https://i.ibb.co/NL5t4PZ/photo1662042694.jpg" group-title="ꗥ🌸 𝐜𝐥𝐨𝐮𝐝_𝟕 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🌸ꗥ",░⡷⠂𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚌𝚕𝚘𝚞𝚍_𝟽 𝙲𝚑𝚊𝚗𝚗𝚎𝚕⠐⢾░
 https://tinyurl.com/welcome-to-channel
@@ -2715,9 +2715,11 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
 # http://51.79.82.208:16005
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Edoa02jQys/+SCS2s14itw", "kid":"DLeYDp0diVf5opPtljQkEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV" group-title="🇲🇾 MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/8TV_v1.png",8TV ⁽ˢᵉʳᵛᵉʳ ²⁾
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/911
 https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default.mpd
 
 #EXTINF:-1 tvg-id="TV9.my" tvg-name="TV9" group-title="🇲🇾 MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV9_v1.png",TV9 ⁽ˢᵉʳᵛᵉʳ ¹⁾
@@ -2726,9 +2728,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default.mpd
 https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
 # http://51.79.82.208:16006
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lY6ctzieIJSN5aVC0nKezw", "kid":"J4KHJ/CjoLT7xmg3jM+MEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="TV9.my" tvg-name="TV9" group-title="🇲🇾 MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV9_v1.png",TV9 ⁽ˢᵉʳᵛᵉʳ ²⁾
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/705
 https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default.mpd
 
 #EXTINF:-1 tvg-id="RTMTVOkey.my" tvg-name="TV Okey" group-title="🇲🇾 MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",Okey ⁽ˢᵉʳᵛᵉʳ ¹⁾
@@ -2864,8 +2868,8 @@ http://51.79.82.208:16010
 #EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna HD" group-title="🇲🇾 MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna ⁽ˢᵉʳᵛᵉʳ ³⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
-#https://stream.zeehanzgadget.com/warna
-#http://iptv12k.com:35461/80203091402/213445/13629
+# https://stream.zeehanzgadget.com/warna
+# http://iptv12k.com:35461/80203091402/213445/13629
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2874,10 +2878,10 @@ http://51.79.82.208:16010
 #EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra HD" group-title="🇲🇾 MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra ⁽ˢᵉʳᵛᵉʳ ¹⁾
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5092/default.mpd
 
-#EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra HD" group-title="🇲🇾 MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra ⁽ˢᵉʳᵛᵉʳ ²⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra HD" group-title="🇲🇾 MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra ⁽ˢᵉʳᵛᵉʳ ²⁾
 https://stream.zeehanzgadget.com/citra
 # https://movierakyat.link/ePggbR.mpd
 
@@ -2886,10 +2890,10 @@ https://stream.zeehanzgadget.com/citra
 #http://iptv12k.com:35461/80203091402/213445/6608
 
 #EXTINF:-1 tvg-id="RTMK08" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/PDN_bckg.png" group-title="🇲🇾 MALAYSIA",Parlimen Dewan Negara
-https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b4596000_slENG.m3u8
+# https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b4596000_slENG.m3u8
 
 #EXTINF:-1 tvg-id="RTMK07" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/PDR_bckg.png" group-title="🇲🇾 MALAYSIA",Parlimen Dewan Rakyat
-https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/chunklist_b4596000_slENG.m3u8
+# https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/chunklist_b4596000_slENG.m3u8
 
 #EXTINF:-1 tvg-id="GoShopMalay111.my" group-title="🇲🇾 MALAYSIA" tvg-logo="https://aqfadtv.astradamy.com/logos/GoShopBAARU.png",Go Shop BAARU
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2962,7 +2966,7 @@ https://tinyurl.com/visit-kedai-saya
 #https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/lokal/indonesiana.m3u8
 
 #EXTINF:-1 tvg-id="MojiTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/tmmSRk4XtrU7uWrqXmu0m_22RSM=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/a11dc1.png" group-title="🇮🇩 INDONESIA", Moji TV
-http://tvn.x10.mx/1/master-13.m3u8?dl\u003d1
+#http://tvn.x10.mx/1/master-13.m3u8?dl\u003d1
 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="IMC.id" tvg-logo="https://i.ibb.co/Kh8mQ2r/channel-14-modified.png" group-title="🇮🇩 INDONESIA",Imc
@@ -2972,20 +2976,20 @@ https://av-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/Ind
 https://dl.dropbox.com/s/5ws9vhnr7pf7n2j/CitraDrama.m3u8?dl=1
 
 #EXTINF:-1 tvg-id="CitraDrama.id" tvg-logo="https://thumbor.prod.vidiocdn.com/vrmDRqwZOsoYOuyV_hfOtFs8bJo=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6401/5b4d40.png" group-title="🇮🇩 INDONESIA",Citra Drama
-http://tv.zonanime.my.id/vidio/citradrama.m3u8
+#http://tv.zonanime.my.id/vidio/citradrama.m3u8
 
 #EXTINF:-1 tvg-id="CitraDangdut.id" tvg-logo="https://thumbor.prod.vidiocdn.com/dfxtzulRmK4-cAUvo30s9VoSwbc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6587/8742fe.png" group-title="🇮🇩 INDONESIA",Citra Dangdut
-http://tv.zonanime.my.id/vidio/citradangdut.m3u8
+##http://tv.zonanime.my.id/vidio/citradangdut.m3u8
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/hiburan/cdangdut.m3u8
 
 #EXTINF:-1 tvg-id="CitraCulinaryTravel.id" tvg-logo="https://i.ibb.co/K0pRgQ1/15f712-modified.png" group-title="🇮🇩 INDONESIA",Citra Culinary & Travel
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/hiburan/ctravel.m3u8
+#https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/hiburan/ctravel.m3u8
 
 #EXTINF:-1 tvg-id="CitraMuslim.id" tvg-logo="https://thumbor.prod.vidiocdn.com/s6WSgBPwJHnY4vughTA-IkeRG40=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6678/154a43.png" group-title="🇮🇩 INDONESIA",Citra Muslim
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/hiburan/cmuslim.m3u8
+#https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/hiburan/cmuslim.m3u8
 
 #EXTINF:-1 tvg-id="CitraEntertainment.id" tvg-logo="https://i.ibb.co/nncMTg1/Desain-tanpa-judul-14-modified.png" group-title="🇮🇩 INDONESIA",Citra Entertainment
-http://tv.zonanime.my.id/vidio/citraentertainment.m3u8
+#http://tv.zonanime.my.id/vidio/citraentertainment.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -4291,11 +4295,6 @@ https://av-live-cdn.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 # http://210.210.155.35:80/dr9445/h/h15/02.m3u8
 http://210.210.155.37/session/eb840bf4-25f3-11ed-9af7-9a7dadef5b77/dr9445/h/h16/01.m3u8
 
-#EXTINF:-1 tvg-id="blueantext" group-title="🎲 ENTERTAINMENT" tvg-logo="https://i.ibb.co/KLSyc92/Rock-Extreme.png", Rock Extreme
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://210.210.155.37/session/e775987a-25f3-11ed-8ba5-85009179245a/dr9445/h/h15/01.m3u8
-# http://210.210.155.35:80/dr9445/h/h16/02.m3u8 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cyWbYaX.jpg" group-title="🎲 ENTERTAINMENT",Travel
 https://bk7l2w4nlx53-hls-live.5centscdn.com/TRAVEL/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
@@ -4391,9 +4390,9 @@ https://av-live-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #EXTINF:-1 tvg-id="KIX.hk" group-title="🎥 MOVIES" tvg-logo="https://i.ibb.co/fMmvZkN/images-5-modified.png" ch-number="705",KIX (MY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/607
-https://linearjitp-playback.astro.com.my/dash-wv/linear/607/default_primary.mpd
+# https://linearjitp-playback.astro.com.my/dash-wv/linear/607/default_primary.mpd
 
-#EXTINF:-1 tvg-id="KIX.hk" group-title="🎥 MOVIES" tvg-logo="https://i.ibb.co/fMmvZkN/images-5-modified.png",KIX (ID)
+#EXTINF:-1 tvg-id="KIX.hk" group-title="🎥 MOVIES" tvg-logo="https://i.ibb.co/fMmvZkN/images-5-modified.png",KIX 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
@@ -4424,7 +4423,7 @@ http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1109/
 #EXTINF:-1 tvg-id="129" ch-number="129" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/42_144.png" group-title="🎥 MOVIES",ART Movies ASTV
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1109/default_primary.mpd
+# https://linearjitp-playback.astro.com.my/dash-wv/linear/1109/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5054
@@ -4556,6 +4555,11 @@ https://tinyurl.com/Andflixzawawi
 # http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/945813
 https://tinyurl.com/Andprivezawawi
 # https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/prive
+
+#EXTINF:-1 tvg-id="blueantext" group-title="🎥 MOVIES" tvg-logo="https://i.ibb.co/KLSyc92/Rock-Extreme.png", Rock Action
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://210.210.155.37/session/e775987a-25f3-11ed-8ba5-85009179245a/dr9445/h/h15/01.m3u8
+# http://210.210.155.35:80/dr9445/h/h16/02.m3u8 
 
 #EXTINF:-1 tvg-id="MoviesNow.in" group-title="🎥 MOVIES" tvg-logo="https://i.ibb.co/JCjgTd5/Movies-Now.png",Movies Now
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/282651
@@ -6427,7 +6431,7 @@ http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/1052373
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/sooka/fwc2022-1
-#EXTINF:-1 group-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" tvg-id="AstroSupersportUHD" group-title="⚽ FIFA WORLD CUP 2022 QATAR™" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/279_144.png",Astro World Cup Qatar 1
+#EXTINF:-1 group-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" tvg-id="WC2022-1" group-title="⚽ FIFA WORLD CUP 2022 QATAR™" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/279_144.png",Astro World Cup Qatar 1
 https://dq4ixj4w2vjju.cloudfront.net/CH1/masterCH1.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -6435,16 +6439,16 @@ https://dq4ixj4w2vjju.cloudfront.net/CH1/masterCH1.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/sooka/fwc2022-2
-#EXTINF:-1 group-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" tvg-id="AstroSupersportUHD" group-title="⚽ FIFA WORLD CUP 2022 QATAR™" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/279_144.png",Astro World Cup Qatar 2
+#EXTINF:-1 group-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" tvg-id="WC2022-2" group-title="⚽ FIFA WORLD CUP 2022 QATAR™" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/279_144.png",Astro World Cup Qatar 2
 https://d2o8qbnewx81s3.cloudfront.net/CH1/masterCH1.mpd
 
-#EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-name="wc2022 1" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="⚽ FIFA WORLD CUP 2022 QATAR™", Astro World Cup Qatar 1 ⁽ᵇᵃᶜᵏᵘᵖ⁾
+#EXTINF:-1 tvg-id="WC2022-1" tvg-name="wc2022 1" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="⚽ FIFA WORLD CUP 2022 QATAR™", Astro World Cup Qatar 1 ⁽ᵇᵃᶜᵏᵘᵖ⁾
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://webdi.openhd.lol/ddyx2/premium294/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/348094
 
-#EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-name="wc2022 2" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="⚽ FIFA WORLD CUP 2022 QATAR™", Astro World Cup Qatar 2 ⁽ᵇᵃᶜᵏᵘᵖ⁾
+#EXTINF:-1 tvg-id="WC2022-2" tvg-name="wc2022 2" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="⚽ FIFA WORLD CUP 2022 QATAR™", Astro World Cup Qatar 2 ⁽ᵇᵃᶜᵏᵘᵖ⁾
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://webdi.openhd.lol/ddyx2/premium295/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/348095
 
 #EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="⚽ FIFA WORLD CUP 2022 QATAR™", Astro World Cup Qatar  3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
